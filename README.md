@@ -10,4 +10,8 @@ to make us easier. maybe you just need layout then you can start thingking the c
 ### requirements 
 - Bootstraps 4
 - gulp
-- sass
+    - sass
+    - concat
+    - uglyfly
+- Browser-Sync
+- 
