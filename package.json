@@ -1,0 +1,25 @@
+{
+  "name": "grid-layout",
+  "version": "0.0.1",
+  "description": "compilation of layout that already in html",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madebyaris/grid-layout.git"
+  },
+  "author": "M Aris Setiawan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/madebyaris/grid-layout/issues"
+  },
+  "homepage": "https://github.com/madebyaris/grid-layout#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglyfly": "^1.4.2"
+  }
+}
